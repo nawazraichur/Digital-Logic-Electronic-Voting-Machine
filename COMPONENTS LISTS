@@ -1,0 +1,7 @@
+NE555 Timer — clock pulse generation
+* 74LS08 — AND gate logic
+* 74LS74 — D-type flip-flop for sequential logic and voter authorization
+* 74390N / 74HC390 — decade counter ICs for vote counting
+* CD4511 — BCD-to-7-segment decoder/driver, where used
+* 7-segment displays — numerical vote-count display
+* Push buttons, resistors, LEDs, a buzzer, and interconnecting wires
